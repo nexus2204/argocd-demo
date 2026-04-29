@@ -1,2 +1,2 @@
 # argocd-demo
-ArgoCD Demo
+ArgoCD Demo with App of Apps Pattern
